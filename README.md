@@ -1,6 +1,7 @@
 # -filotea25
-![Filotea banner](https://tu-imagen-o-gif-hosteado.com/filotea-banner.gif)
-# 👋 ¡Hola, soy Filotea Mangue!
+
+![Hola, soy Filotea](https://yourdomain.com/filotea-animado.gif)
+
 
 💻 Técnica en Desarrollo de Aplicaciones Multiplataforma  
 📊 Estudiante del Grado en Estadística y Empresa  
