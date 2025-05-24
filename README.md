@@ -1,4 +1,5 @@
 # -filotea25
+![Filotea banner](https://tu-imagen-o-gif-hosteado.com/filotea-banner.gif)
 # 👋 ¡Hola, soy Filotea Mangue!
 
 💻 Técnica en Desarrollo de Aplicaciones Multiplataforma  
