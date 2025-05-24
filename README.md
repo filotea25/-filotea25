@@ -1,6 +1,6 @@
-# -filotea25
-
 ![Hola, soy Filotea](https://yourdomain.com/filotea-animado.gif)
+
+
 
 
 💻 Técnica en Desarrollo de Aplicaciones Multiplataforma  
